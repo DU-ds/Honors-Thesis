@@ -10,5 +10,5 @@ http://www.thearda.com/Archive/Files/Codebooks/NESCUM_CB.asp
 More current data set (and many more data sets!!!):
 http://www.electionstudies.org/studypages/download/datacenter_all_NoData.php
 
-Hope this helps! ^_^
+Hope this helps! ^~^
 
