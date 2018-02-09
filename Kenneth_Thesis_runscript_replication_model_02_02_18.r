@@ -1019,7 +1019,7 @@ qp <- c(rep(1:47, R))
 
 Year_chr <- levels(as.factor(anes.12$`Year of study`))
 year_original  <-  as.numeric(Year_chr)
-decade80 <-  (year_original - 1980)/10
+decade80 <-  (year_original - 1988)/10
 #code says 1988, paper says 1980. Which do I use?
 #This seems arbitrary and I wonder if it's designed to make the model look better to the reader instead of being otherwise useful.
 m1.time <- c(rep(NA, R * length(dv.position)))
