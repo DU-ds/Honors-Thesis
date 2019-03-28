@@ -1,5 +1,4 @@
 # Honors-Thesis
-Still in progress, will update when I have more! :)
 
 Anyone who would like the datasets for themselves,
 
